@@ -1,8 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
+To run backend
+go to the server
+### `cd server`
 
-In the project directory, you can run:
+### `npm i`
+
+### `npm start`
+
+To run web
+
+### `npm start`
+
+To run backend do
 
 ### `npm start`
 
